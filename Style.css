@@ -36,6 +36,10 @@ html{
     margin-left: 10%;
 }
 
+.col-50 div a:hover{
+    color: rgb(42, 73, 129);
+}
+
 
 .col-50 div p{
     color:azure;
